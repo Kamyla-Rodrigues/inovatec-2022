@@ -2,7 +2,8 @@
 
 ## Integrantes 
 
-Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
+Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing). 
+- Kamyla (Gestão Executiva);
 
 ## Passos
 
